@@ -23,6 +23,9 @@ from typing import List, Tuple
 import numpy as np
 
 '''
+...
+HALLO
+...
 
 
 import time
@@ -47,7 +50,7 @@ class tcd1304():
 
     
 
-    
+
 
 
 if __name__ == "__main__":
