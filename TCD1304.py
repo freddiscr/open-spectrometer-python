@@ -35,7 +35,7 @@ class TCD1304:
         self.ps = PowerSupply()
         
     def set_power_source():
-        self.ps.pv1 = 4
+        self.ps.pv1 = 5
 
     def start_icg_clock(self):
         self.pwmgen.set_state(sq3=True)
